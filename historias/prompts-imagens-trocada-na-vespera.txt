@@ -1,0 +1,53 @@
+PROMPTS DE IMAGEM - "Trocada Por Outra na Véspera do Casamento, Ela Recomeçou no Rancho Que Todos Evitavam... Até Descobrir Por Quê"
+
+Ambientação: sul de Minas Gerais, 1979-1980. Estilo: fotos realistas e espontâneas, como se alguém tivesse fotografado as pessoas sem que elas percebessem. Nada posado e ninguém olhando para a câmera.
+Proporção sugerida: 16:9 (YouTube). Os prompts estão em inglês porque os geradores entendem melhor.
+
+====================================================================
+INÍCIO DA HISTÓRIA
+====================================================================
+
+1) A CARTA NA VÉSPERA DO CASAMENTO
+Helena recebe a carta de Rodrigo na varanda do casarão amarelo. O vestido de noiva aparece pela porta aberta e a tia Dalva observa ao fundo.
+
+candid documentary photograph taken through a half-open doorway, a young Brazilian woman in her mid-20s with brown hair in a low bun sitting on the tiled floor of a colonial veranda, holding an open handwritten letter, frozen in shock, face partly turned away, a white wedding dress hanging behind a wooden door in the background, silver trays of wrapped wedding sweets on a side table, an older thin woman with lacquered hair standing in the shadows of the hallway watching her, yellow colonial house with blue window frames, late afternoon golden light, 1979 small town Minas Gerais Brazil, subjects unaware of the camera, unposed, shot on 35mm film, Kodak Portra 400, natural film grain, slight motion blur, shallow depth of field, photorealistic, no text, no watermark
+
+2) A CHEGADA AO RANCHO TRÊS ÁGUAS
+Helena, vestida de forma simples, arrasta as malas pela estrada de terra até a porteira do rancho abandonado.
+
+candid documentary photograph from a distance, a young woman in a simple blue cotton print dress and a headscarf dragging two old leather suitcases along a red dirt road toward a weathered wooden farm gate, seen from behind and slightly to the side, an old rammed-earth farmhouse with colonial clay roof tiles and a partly collapsed roof section in the background, a huge flowering mango tree, overgrown yard, an old bay horse watching from a wooden corral, bamboo groves lining the road, red dust in the air, morning light, 1979 rural Minas Gerais Brazil, subject unaware of the camera, unposed, shot on 35mm film, Kodak Portra 400, natural film grain, photorealistic, no text, no watermark
+
+====================================================================
+PRINCIPAL ACONTECIMENTO
+====================================================================
+
+3) AS "ASSOMBRAÇÕES" DO BREJO
+Noite sem lua. Os homens de seu Albano fazem medições no brejo com lanternas, e a foto é tirada de trás dos bambus onde Helena e Tomé se escondem.
+
+candid night photograph taken from behind a dense bamboo thicket on a hillside, looking down at a dark marsh where two men in rubber boots carry kerosene lanterns and a surveyor's tripod with a theodolite, a third man hammering red-painted wooden stakes near a spring, lantern light reflecting on wet grass and black water, the men unaware they are being watched, foreground bamboo leaves out of focus, heavy shadows, moonless sky, 1979 rural Minas Gerais Brazil, unposed, shot on 35mm film pushed to high ISO, strong film grain, slight motion blur, photorealistic, no text, no watermark
+
+4) A REVELAÇÃO NO PALANQUE DA FESTA DE SÃO BENTO
+Helena fala ao microfone no palanque da praça. O deputado fica sem reação, a tia Dalva fica pálida e o povo assiste em choque.
+
+candid documentary photograph taken from inside the crowd with a telephoto lens, a young woman in a simple blue print dress and headscarf speaking firmly into an old microphone on a wooden stage in a small-town square, holding a leather folder with papers, a heavyset politician in a navy blue suit frozen beside her, an elegant older woman in white gloves and a hat looking pale and shocked, a man in a straw hat and khaki suit trying to step away, colorful paper bunting overhead, festival stalls, a small blue church behind the stage, blurred heads and hats of the crowd in the foreground, some people covering their mouths, afternoon light, January 1980 Minas Gerais Brazil, nobody looking at the camera, unposed, shot on 35mm film, Kodak Portra 400, natural film grain, photorealistic, no text, no watermark
+
+====================================================================
+FINAL / DESFECHO
+====================================================================
+
+5) O CASAMENTO NA IGREJINHA AZUL
+Saída da igreja após o casamento simples de Helena e Tomé, com o povo do vale jogando arroz.
+
+candid documentary photograph of a simple countryside wedding exiting a small blue chapel, a bride in a plain white cotton dress with a crown of orange blossoms and a small iron pendant on a blue ribbon, laughing with her eyes closed, a broad-shouldered blacksmith groom in a white linen shirt and borrowed tie holding his hat, rice being thrown by farmers and children, an elderly woman wiping tears, a three-tier homemade cake visible on a table near the door, dirt street, bright morning sunlight, 1980 rural Minas Gerais Brazil, subjects unaware of the camera, captured mid-moment, unposed, shot on 35mm film, Kodak Portra 400, natural film grain, slight motion blur, photorealistic, no text, no watermark
+
+6) ANOS DEPOIS: A ESCOLA E A VIDA NO RANCHO
+Anos depois, Tomé ensina os meninos na forja atrás da escolinha, e Helena observa da varanda. A represa aparece ao fundo no vale.
+
+candid documentary photograph at golden hour, a middle-aged blacksmith teaching a group of rural children at an outdoor forge behind a small whitewashed countryside schoolhouse, sparks flying from the anvil, children watching with fascination, a woman with graying hair leaning on the wooden railing of a farmhouse veranda in the background, smiling quietly while holding a book, a large calm reservoir filling the valley below, green hills, a mango tree, warm evening light, late 1980s rural Minas Gerais Brazil, nobody looking at the camera, unposed, natural moment, shot on 35mm film, Kodak Gold 200, natural film grain, photorealistic, no text, no watermark
+
+====================================================================
+DICAS
+====================================================================
+- Negative prompt (se a ferramenta aceitar): posed, looking at camera, studio lighting, text, letters, watermark, cartoon, illustration, CGI, oversaturated, plastic skin, deformed hands, extra fingers, modern clothes, smartphones, cars from after 1985
+- Para manter Helena e Tomé com o mesmo rosto em todas as imagens, crie os dois como personagens no Soul ID do Higgsfield e reutilize.
+- As palavras "candid", "unaware of the camera" e "35mm film grain" são as que mais dão a sensação de foto espontânea. Não tire essas palavras dos prompts.
